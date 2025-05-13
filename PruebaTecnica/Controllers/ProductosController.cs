@@ -22,13 +22,13 @@ namespace PruebaTecnica.Controllers
             return View(productos);
         }
 
-        // ✅ GET: Productos/Create
+        // GET: Productos/Create
         public IActionResult Create()
         {
             return View();
         }
 
-        // ✅ POST: Productos/Create
+        // POST: Productos/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create(Producto producto)
