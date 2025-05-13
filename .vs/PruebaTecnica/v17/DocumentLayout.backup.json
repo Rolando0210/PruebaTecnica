@@ -76,7 +76,7 @@
               "RelativeDocumentMoniker": "PruebaTecnica\\.gitignore",
               "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PruebaTecnica\\PruebaTecnica\\.gitignore",
               "RelativeToolTip": "PruebaTecnica\\.gitignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-05-13T11:24:53.428Z",
               "EditorCaption": ""
@@ -91,8 +91,7 @@
               "RelativeToolTip": "PruebaTecnica\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-13T11:10:37.244Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-13T11:10:37.244Z"
             },
             {
               "$type": "Document",
@@ -104,8 +103,7 @@
               "RelativeToolTip": "PruebaTecnica\\Views\\Productos\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwBgAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-13T10:52:03.534Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-13T10:52:03.534Z"
             },
             {
               "$type": "Document",
@@ -117,8 +115,7 @@
               "RelativeToolTip": "PruebaTecnica\\Views\\Productos\\Edit.cshtml",
               "ViewState": "AgIAABMAAAAAAAAAAAAqwCUAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-13T10:51:39.035Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-13T10:51:39.035Z"
             },
             {
               "$type": "Document",
@@ -130,8 +127,7 @@
               "RelativeToolTip": "PruebaTecnica\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-13T05:46:06.354Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-13T05:46:06.354Z"
             },
             {
               "$type": "Document",
@@ -143,8 +139,7 @@
               "RelativeToolTip": "PruebaTecnica\\Views\\Productos\\Create.cshtml",
               "ViewState": "AgIAAAwAAAAAAAAAAAAqwBoAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-13T05:35:49.436Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-13T05:35:49.436Z"
             },
             {
               "$type": "Document",
@@ -156,8 +151,7 @@
               "RelativeToolTip": "PruebaTecnica\\wwwroot\\css\\estilos.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-05-13T05:27:29.519Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-13T05:27:29.519Z"
             },
             {
               "$type": "Document",
@@ -169,8 +163,7 @@
               "RelativeToolTip": "PruebaTecnica\\Views\\Productos\\Index.cshtml",
               "ViewState": "AgIAABAAAAAAAAAAAAAqwCgAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-13T05:25:06.199Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-13T05:25:06.199Z"
             },
             {
               "$type": "Document",
@@ -182,8 +175,7 @@
               "RelativeToolTip": "PruebaTecnica\\Controllers\\ProductosController.cs",
               "ViewState": "AgIAABkAAAAAAAAAAIA7wDEAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T05:22:24.955Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-13T05:22:24.955Z"
             },
             {
               "$type": "Document",
@@ -195,8 +187,7 @@
               "RelativeToolTip": "PruebaTecnica\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T05:05:00.516Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-13T05:05:00.516Z"
             },
             {
               "$type": "Document",
@@ -208,8 +199,7 @@
               "RelativeToolTip": "PruebaTecnica\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T05:03:20.186Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-13T05:03:20.186Z"
             },
             {
               "$type": "Document",
@@ -221,8 +211,7 @@
               "RelativeToolTip": "PruebaTecnica\\Models\\Producto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T05:02:10.286Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-13T05:02:10.286Z"
             },
             {
               "$type": "Document",
@@ -234,8 +223,7 @@
               "RelativeToolTip": "PruebaTecnica\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-13T04:56:09.101Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-13T04:56:09.101Z"
             }
           ]
         }
