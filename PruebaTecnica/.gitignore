@@ -1,0 +1,23 @@
+﻿# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build
+bin/
+obj/
+
+# IIS
+.vscode/
+.vscode/*
+*.dbmdl
+*.log
+*.ldf
+*.mdf
+
+# Others
+*.log
+*.tmp
+*.cache

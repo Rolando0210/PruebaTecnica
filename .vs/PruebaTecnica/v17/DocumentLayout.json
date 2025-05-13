@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\PruebaTecnica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B06C765A-1634-47DD-B846-D07475CED57A}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\lenovo\\source\\repos\\pruebatecnica\\pruebatecnica\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{B06C765A-1634-47DD-B846-D07475CED57A}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B06C765A-1634-47DD-B846-D07475CED57A}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\lenovo\\source\\repos\\pruebatecnica\\pruebatecnica\\views\\productos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B06C765A-1634-47DD-B846-D07475CED57A}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\views\\productos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B06C765A-1634-47DD-B846-D07475CED57A}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\lenovo\\source\\repos\\pruebatecnica\\pruebatecnica\\views\\productos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B06C765A-1634-47DD-B846-D07475CED57A}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\views\\productos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B06C765A-1634-47DD-B846-D07475CED57A}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\lenovo\\source\\repos\\pruebatecnica\\pruebatecnica\\views\\productos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B06C765A-1634-47DD-B846-D07475CED57A}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\views\\productos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B06C765A-1634-47DD-B846-D07475CED57A}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\lenovo\\source\\repos\\pruebatecnica\\pruebatecnica\\views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B06C765A-1634-47DD-B846-D07475CED57A}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B06C765A-1634-47DD-B846-D07475CED57A}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\lenovo\\source\\repos\\pruebatecnica\\pruebatecnica\\wwwroot\\css\\estilos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B06C765A-1634-47DD-B846-D07475CED57A}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\wwwroot\\css\\estilos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B06C765A-1634-47DD-B846-D07475CED57A}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\lenovo\\source\\repos\\pruebatecnica\\pruebatecnica\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B06C765A-1634-47DD-B846-D07475CED57A}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B06C765A-1634-47DD-B846-D07475CED57A}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\lenovo\\source\\repos\\pruebatecnica\\pruebatecnica\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B06C765A-1634-47DD-B846-D07475CED57A}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B06C765A-1634-47DD-B846-D07475CED57A}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\lenovo\\source\\repos\\pruebatecnica\\pruebatecnica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B06C765A-1634-47DD-B846-D07475CED57A}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B06C765A-1634-47DD-B846-D07475CED57A}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\lenovo\\source\\repos\\pruebatecnica\\pruebatecnica\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B06C765A-1634-47DD-B846-D07475CED57A}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B06C765A-1634-47DD-B846-D07475CED57A}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\lenovo\\source\\repos\\pruebatecnica\\pruebatecnica\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B06C765A-1634-47DD-B846-D07475CED57A}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B06C765A-1634-47DD-B846-D07475CED57A}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\lenovo\\source\\repos\\pruebatecnica\\pruebatecnica\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B06C765A-1634-47DD-B846-D07475CED57A}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B06C765A-1634-47DD-B846-D07475CED57A}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\lenovo\\source\\repos\\pruebatecnica\\pruebatecnica\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B06C765A-1634-47DD-B846-D07475CED57A}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 215,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PruebaTecnica\\PruebaTecnica\\.gitignore",
+              "RelativeDocumentMoniker": "PruebaTecnica\\.gitignore",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PruebaTecnica\\PruebaTecnica\\.gitignore",
+              "RelativeToolTip": "PruebaTecnica\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-13T11:24:53.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "PruebaTecnica\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T11:10:37.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Views\\Productos\\Delete.cshtml",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Views\\Productos\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Views\\Productos\\Delete.cshtml",
+              "RelativeToolTip": "PruebaTecnica\\Views\\Productos\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T10:52:03.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Views\\Productos\\Edit.cshtml",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Views\\Productos\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Views\\Productos\\Edit.cshtml",
+              "RelativeToolTip": "PruebaTecnica\\Views\\Productos\\Edit.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAqwCUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T10:51:39.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PruebaTecnica\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T05:46:06.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Views\\Productos\\Create.cshtml",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Views\\Productos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Views\\Productos\\Create.cshtml",
+              "RelativeToolTip": "PruebaTecnica\\Views\\Productos\\Create.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwBoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T05:35:49.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "estilos.css",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PruebaTecnica\\PruebaTecnica\\wwwroot\\css\\estilos.css",
+              "RelativeDocumentMoniker": "PruebaTecnica\\wwwroot\\css\\estilos.css",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PruebaTecnica\\PruebaTecnica\\wwwroot\\css\\estilos.css",
+              "RelativeToolTip": "PruebaTecnica\\wwwroot\\css\\estilos.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-13T05:27:29.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Views\\Productos\\Index.cshtml",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Views\\Productos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Views\\Productos\\Index.cshtml",
+              "RelativeToolTip": "PruebaTecnica\\Views\\Productos\\Index.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAqwCgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T05:25:06.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "PruebaTecnica\\Controllers\\ProductosController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAIA7wDEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T05:22:24.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Program.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Program.cs",
+              "RelativeToolTip": "PruebaTecnica\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T05:05:00.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "PruebaTecnica\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T05:03:20.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Models\\Producto.cs",
+              "RelativeToolTip": "PruebaTecnica\\Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T05:02:10.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PruebaTecnica\\PruebaTecnica\\appsettings.json",
+              "RelativeDocumentMoniker": "PruebaTecnica\\appsettings.json",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PruebaTecnica\\PruebaTecnica\\appsettings.json",
+              "RelativeToolTip": "PruebaTecnica\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-13T04:56:09.101Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+﻿@model PruebaTecnica.Models.Producto
+
+@{
+    ViewData["Title"] = "Eliminar Producto";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="form-container">
+    <h1>¿Está seguro de eliminar este producto?</h1>
+
+    <div class="product-details">
+        <p><strong>Nombre:</strong> @Model.Nombre</p>
+        <p><strong>Precio:</strong> @Model.PrecioUnitario.ToString("C")</p>
+        <p><strong>Descripción:</strong> @Model.Descripcion</p>
+    </div>
+
+    <form asp-action="Delete" method="post" style="margin-top: 30px;">
+        @Html.AntiForgeryToken()
+        <input type="hidden" asp-for="Id" />
+        <div style="display: flex; gap: 10px;">
+            <button type="submit" class="btn btn-danger">Sí, eliminar</button>
+            <a asp-action="Index" class="btn btn-light">Cancelar</a>
+        </div>
+    </form>
+</div>
